@@ -1,7 +1,5 @@
 # -health
-Doc App Project
-
-
+  
 Medical Doctor Appointment and Consultation App
 
 Apps Name: Medicare: Getting Medical advice & support from home is super easy!
