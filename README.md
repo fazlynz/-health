@@ -1,5 +1,6 @@
  
-Peoject: Medical Doctor Appointment and Consultation App
+Peoject: Medical Doctor Appointment and Consultation App ![image](https://github.com/fazlynz/-health/assets/31564681/e24ee3ae-ee50-444e-b3ed-61cff91a0f92)
+
 
 
 Apps Name: Medicare: Getting Medical advice & support from home is super easy!
@@ -12,12 +13,4 @@ Objective:
 
 ![image](https://github.com/fazlynz/-health/assets/31564681/a3c16129-b1c8-455f-8923-c738abf48115)
 
-
-
-![image](https://github.com/fazlynz/-health/assets/31564681/962ad2d0-1ff4-45f1-b285-dcc6a4ff3a14)
-
-
-
-
-
-
+  
