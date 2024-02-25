@@ -4,10 +4,10 @@
                                    Project: Medical Doctor Appointment and Consultation App 
 
                       
-                       
+                       ![image](https://github.com/fazlynz/-health/assets/31564681/0443760e-eed2-4424-b243-3fa82de18266)
                        
 
-Apps Name: Medicare: Getting Medical advice & support from home is super easy!![image](https://github.com/fazlynz/-health/assets/31564681/0443760e-eed2-4424-b243-3fa82de18266)
+Apps Name: Medicare: Getting Medical advice & support from home is super easy!
 
 
 Objective:
