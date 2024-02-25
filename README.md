@@ -5,7 +5,7 @@
 
                       
                        
-                       ![image](https://github.com/fazlynz/-health/assets/31564681/e24ee3ae-ee50-444e-b3ed-61cff91a0f92) 
+                       
 
 Apps Name: Medicare: Getting Medical advice & support from home is super easy!
 
